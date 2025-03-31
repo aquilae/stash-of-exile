@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="server:local" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.bun/bin/bun" node-parameters="run" path-to-js-file="bin/local.ts" working-dir="$PROJECT_DIR$/backend">
+    <method v="2" />
+  </configuration>
+</component>

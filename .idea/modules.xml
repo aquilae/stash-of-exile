@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/app/stash-of-exile.app.iml" filepath="$PROJECT_DIR$/packages/app/stash-of-exile.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stash-of-exile.mono.iml" filepath="$PROJECT_DIR$/.idea/stash-of-exile.mono.iml" />
+    </modules>
+  </component>
+</project>

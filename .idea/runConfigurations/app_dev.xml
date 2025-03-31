@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="app:dev" type="NodeJSConfigurationType" application-parameters="dev" path-to-node="$USER_HOME$/.bun/bin/bun" node-parameters="--bun" path-to-js-file="$PROJECT_DIR$/node_modules/rolldown-vite/bin/vite.js" working-dir="$PROJECT_DIR$/packages/app">
+    <method v="2" />
+  </configuration>
+</component>
